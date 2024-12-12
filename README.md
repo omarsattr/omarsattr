@@ -1,16 +1,15 @@
-## Hi there 👋
+# Umar Sattar - University of Hertfordshire
 
-<!--
-**omarsattr/omarsattr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, I'm **Umar Sattar** 👋
 
-Here are some ideas to get you started:
+- 📚 Master's in Data Science @ **University of Hertfordshire**
+- 👨‍💻 Data Scientist Enthusiast | 🌐 Developer
+- 💡 Passionate about turning data into actionable insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I am currently pursuing my **Master's in Data Science** at the **University of Hertfordshire**. My academic journey has equipped me with a strong foundation in data analysis, machine learning, and statistical modeling. I am always eager to learn and apply new techniques to solve complex problems.
+
+## Projects
+Stay tuned for updates on my projects, where I'll showcase my work and contributions in the field of data science. Feel free to explore, and don't hesitate to reach out if you have any questions or collaboration ideas!
+
+Thanks for visiting! ✨
